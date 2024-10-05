@@ -2,6 +2,7 @@ package Training;
 
 public class division {
     public int divide(int a,int b){
-        return a/b;
+        int ans = a/b;
+        return ans;
     }
 }
