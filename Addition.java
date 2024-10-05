@@ -1,1 +1,4 @@
-public class Addition{}
+package Training;
+public class Addition{
+
+}
